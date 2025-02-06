@@ -29,6 +29,10 @@ Parameter Explanation:
 - -- alpha: The weight of the task vector for emotion A is alpha, while the weight of the task vector for emotion B is 1 - alpha.
 - -- speaker_id: specific speaker
 
+### Ours fine-grained representation pipeline
+
+[fine-grained representation](https://github.com/himilu728/fine-grained-representation)
+
 ### Acknowledgement
 
 + [HiFi-GAN](https://github.com/jik876/hifi-gan)
