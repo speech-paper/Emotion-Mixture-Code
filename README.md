@@ -31,9 +31,9 @@ Parameter Explanation:
 
 ### Acknowledgement
 
-+ [HiFi-GAN]([jik876/hifi-gan: HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://github.com/jik876/hifi-gan))
-+ [Grad-TTS]([Speech-Backbones/Grad-TTS at main · huawei-noah/Speech-Backbones](https://github.com/huawei-noah/Speech-Backbones/tree/main/Grad-TTS))
-+ [LJSpeech]([Speech-Backbones/Grad-TTS at main · huawei-noah/Speech-Backbones](https://github.com/huawei-noah/Speech-Backbones/tree/main/Grad-TTS))
++ [HiFi-GAN](https://github.com/jik876/hifi-gan)
++ [Grad-TTS](https://github.com/huawei-noah/Speech-Backbones/tree/main/Grad-TTS)
++ [LJSpeech](https://github.com/huawei-noah/Speech-Backbones/tree/main/Grad-TTS)
 + [Emotion Speech Dataset (ESD)](https://github.com/HLTSingapore/Emotional-Speech-Data)
 
 ### License
