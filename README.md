@@ -6,9 +6,9 @@ Speech demo: [Demo]().
 
 ### Preliminary work
 
-- Download the [checkpoint](https://drive.google.com/file/d/1k4KINFlEr3c0pSsbmQEW0tWk1Rf01l1i/view?usp=drive_link) of the HiFi-GAN model and place it in the "checkpts" folder.
-- Download the [checkpoint](https://drive.google.com/file/d/1_7zNeaTsugOn3aCKaSSe1WPlZzjfwS2m/view?usp=drive_link) of the MG-TTS model pre-trained on the LJSpeech dataset and place it in the "logs_new/ljs_pre_with_emo_new" folder.
-- Download the task vectors of the fine-tuned model ([emotion_vector_sur](https://drive.google.com/file/d/1EsUkrzL89PAZ8tSPiQamXGHjOGtgfcOZ/view?usp=drive_link), [emotion_vector_ang](https://drive.google.com/file/d/1wpJo_dqAPggenx45lRj9E_qLUsBMqHsi/view?usp=drive_link)) and place them in the "emotion_vector/13/with_emo/" folder.
+- Download the [checkpoint](https://drive.google.com/file/d/1k4KINFlEr3c0pSsbmQEW0tWk1Rf01l1i/view?usp=sharing) of the HiFi-GAN model and place it in the "checkpts" folder.
+- Download the [checkpoint](https://drive.google.com/file/d/1_7zNeaTsugOn3aCKaSSe1WPlZzjfwS2m/view?usp=sharing) of the MG-TTS model pre-trained on the LJSpeech dataset and place it in the "logs_new/ljs_pre_with_emo_new" folder.
+- Download the task vectors of the fine-tuned model ([emotion_vector_sur](https://drive.google.com/file/d/1EsUkrzL89PAZ8tSPiQamXGHjOGtgfcOZ/view?usp=sharing), [emotion_vector_ang](https://drive.google.com/file/d/1wpJo_dqAPggenx45lRj9E_qLUsBMqHsi/view?usp=sharing)) and place them in the "emotion_vector/13/with_emo/" folder.
 
 ### Synthesize primary emotions
 
