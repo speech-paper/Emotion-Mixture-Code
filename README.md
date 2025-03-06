@@ -1,6 +1,6 @@
 # Emotion-Mixture-Code
 
-Speech demo: [Demo]().
+Speech demo: [Demo](https://speech-paper.github.io/EmoMixture/).
 
 ## How to experience Emotion Mixture
 
